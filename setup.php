@@ -26,15 +26,15 @@ define("__CA_DB_HOST__", 'us-cdbr-east-04.cleardb.com');
 
 # __CA_DB_USER__ = Database login user name
 #
-define("__CA_DB_USER__", 'bb31b9cd68df2c');
+define("__CA_DB_USER__", 'ba59c72ed9d3a1');
 
 # __CA_DB_PASSWORD__ = Database login password
 #
-define("__CA_DB_PASSWORD__", '0660289d');
+define("__CA_DB_PASSWORD__", 'e71fcdf0');
 
 # __CA_DB_DATABASE__ = The name of your CollectiveAccess database
 #
-define("__CA_DB_DATABASE__", 'heroku_b46d8c9e674e6c5');
+define("__CA_DB_DATABASE__", 'heroku_d6f929250569ac1');
 
 
 #
